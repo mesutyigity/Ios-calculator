@@ -33,6 +33,12 @@ body {
   background: #000000;
 }
 
+.previous-display {
+  opacity: 0.5;
+  font-size: 30px;
+  overflow: hidden;
+}
+
 .buttons {
   display: grid;
   grid-gap: 10px;
